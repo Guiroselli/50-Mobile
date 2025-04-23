@@ -8,7 +8,7 @@ export default function DevsScreen() {
       <Image source={require('../../assets/dev1.jpg')} style={styles.image} />
       <Image source={require('../../assets/dev2.jpg')} style={styles.image} />
 
-      <Text>Guilherme • React Native Dev</Text>
+      <Text>Guilherme Damasio Roselli • React Native Dev</Text>
       <Button title="LinkedIn" onPress={() => Linking.openURL('https://www.linkedin.com/in/guilherme-roselli-36581b2b6/')} />
     </View>
     
